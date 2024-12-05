@@ -5,23 +5,21 @@
 
 ---
 
-## BotBot
+**English:**  
+BotBot delivers secure, adaptive private AI solutions tailored for education, bringing personalized learning to students and teachers while protecting privacy at the edge. The BotBot S1 local AI server provides powerful, scalable processing (from 275 TOPS in a classroom setup to 3,900 TOPS in a server rack), ensuring reliable, lag-free experiences without cloud dependence. With seamless connectivity (4G, 5G, Wi-Fi, BLE) and robust data protection, BotBot’s ecosystem transforms classrooms with cutting-edge AI-driven tools—like the S1-B robotic assistant—and multilingual open-source models available on [Hugging Face](YOUR_HUGGINGFACE_URL_HERE). Our fine-tuned LLaMA 3 and Mistral models excel in Brazilian Portuguese, delivering enriching educational experiences right where they are needed.
 
-**English (🇺🇸):**  
-BotBot delivers secure, adaptive private AI solutions designed specifically for education, bringing personalized learning to students and teachers while protecting privacy at the edge. The BotBot S1 local AI server provides powerful, scalable processing (from 275 TOPS in a classroom setup to 3,900 TOPS in a server rack), ensuring reliable, lag-free experiences without cloud dependence. With seamless connectivity options (4G, 5G, Wi-Fi, BLE) and robust data protection, BotBot’s ecosystem transforms classrooms with cutting-edge AI-driven tools—like the S1-B robotic assistant—and multilingual open-source models available on [Hugging Face](YOUR_HUGGINGFACE_URL_HERE). Our fine-tuned LLaMA 3 and Mistral models excel in Brazilian Portuguese and will soon support English and Spanish, delivering enriching educational experiences globally.
-
-**Português (🇧🇷):**  
-A BotBot oferece soluções de IA privada, segura e adaptativa, projetadas especificamente para o ambiente educacional, trazendo aprendizagem personalizada para alunos e professores, protegendo a privacidade na ponta. O servidor de IA local BotBot S1 oferece processamento poderoso e escalonável (de 275 TOPS em sala de aula até 3.900 TOPS em um rack de servidor), garantindo experiências confiáveis, sem atrasos e sem dependência da nuvem. Com opções de conectividade perfeitas (4G, 5G, Wi-Fi, BLE) e proteção robusta de dados, o ecossistema da BotBot transforma salas de aula com ferramentas avançadas de IA—como o assistente robótico S1-B—e modelos multilíngues de código aberto disponíveis no [Hugging Face](YOUR_HUGGINGFACE_URL_HERE). Nossos modelos LLaMA 3 e Mistral, ajustados para o português brasileiro, em breve darão suporte também ao inglês e ao espanhol, proporcionando experiências educacionais ainda mais ricas.
+**Português:**  
+A BotBot oferece soluções de IA privada, segura e adaptativa, desenvolvidas para o ambiente educacional, trazendo aprendizagem personalizada para alunos e professores, protegendo a privacidade na ponta. O servidor local de IA BotBot S1 fornece processamento poderoso e escalonável (de 275 TOPS em uma sala de aula até 3.900 TOPS em um rack de servidor), garantindo experiências confiáveis e sem atrasos, sem depender da nuvem. Com conectividade perfeita (4G, 5G, Wi-Fi, BLE) e proteção robusta de dados, o ecossistema da BotBot transforma salas de aula com ferramentas avançadas de IA—como o assistente robótico S1-B—e modelos multilíngues de código aberto disponíveis no [Hugging Face](YOUR_HUGGINGFACE_URL_HERE). Nossos modelos LLaMA 3 e Mistral, otimizados para o português brasileiro, entregam experiências educacionais enriquecedoras onde mais se precisa.
 
 ---
 
-### 🔗 Connect With Us
+### Connect With Us
 
-- 🌐 [Website](https://botbot.bot)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-- 🕊 [X (Twitter)](YOUR_X_URL_HERE)
-- 🤗 [Hugging Face](YOUR_HUGGINGFACE_URL_HERE)
+[![Website](https://img.shields.io/badge/-Website-000?logo=vercel&logoColor=white)](YOUR_WEBSITE_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](YOUR_X_URL_HERE)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black)](YOUR_HUGGINGFACE_URL_HERE)
 
 ---
 
-**Made with ❤️ by BotBot**
+**Made with ❤️ in Brazil and USA by BotBot**
