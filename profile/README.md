@@ -25,5 +25,5 @@ A BotBot oferece soluções de IA privada, segura e adaptativa, desenvolvidas pa
 **Made with ❤️ in Brazil and USA by BotBot**
 
 <p align="right">
-  <img src="https://cdn.prod.website-files.com/672ed723fbdc1589fa127239/67522a8b1bfa9f5f4994758c_Bot%20icon.png" alt="BotBot Logo" width="200" />
+  <img src="https://cdn.prod.website-files.com/672ed723fbdc1589fa127239/67522a8b1bfa9f5f4994758c_Bot%20icon.png" alt="BotBot Logo" width="130" />
 </p>
