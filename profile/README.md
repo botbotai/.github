@@ -1,6 +1,11 @@
 <!-- Logo Section -->
 <p align="center">
   <img src="https://cdn.prod.website-files.com/672ed723fbdc1589fa127239/672ed83e9ab7d55f18a3c43f_BotBot%20Purple%20Logo%20(2)-p-500.png" alt="BotBot Logo" width="200" />
+
+[![Website](https://img.shields.io/badge/-Website-000?logo=vercel&logoColor=white)](https://botbot.bot)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black)](https://huggingface.co/botbot-ai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/botbot-ai)
+[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/botbot_ai)
 </p>
 
 ---
