@@ -17,7 +17,7 @@ A BotBot oferece soluções de IA privada, segura e adaptativa, desenvolvidas pa
 
 [![Website](https://img.shields.io/badge/-Website-000?logo=vercel&logoColor=white)](https://botbot.bot)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black)](https://huggingface.co/botbot-ai)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/company/botbot-ai))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/botbot-ai)
 [![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/botbot_ai)
 
 ---
