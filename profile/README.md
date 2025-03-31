@@ -1,4 +1,4 @@
-<!-- Logo Section -->
+  <!-- Logo Section -->
 <p align="center">
   <img src="https://cdn.prod.website-files.com/672ed723fbdc1589fa127239/672ed83e9ab7d55f18a3c43f_BotBot%20Purple%20Logo%20(2)-p-500.png" alt="BotBot Logo" width="200" />
 </p>
@@ -6,14 +6,18 @@
 ---
 
 **English**  
-We empower critical sectors with hardware designed to protect privacy, delivering powerful on-site computing for real-time insights. By focusing on the edge, we reduce reliance on remote systems and keep sensitive information under local control.
+BotBot enhances existing legged and wheeled robotic platforms by integrating specialized payloads, advanced AI, and our versatile ROS2-based controller, R1.
 
-By embracing open-source software and models, organizations can integrate our solutions or develop their own, ensuring artificial intelligence remains both secure and versatile.
+Our approach transforms existing robots into practical, intelligent tools designed for everyday use. We tackle real-world challenges across key sectors including logistics, education, healthcare, and hazardous tasks.
+
+By combining modular payloads, custom AI software, and R1's seamless compatibility with diverse robotic systems, we enable smarter deliveries, engaging interactive learning, improved patient care, and safer execution of high-risk operations. At BotBot, we don't reinvent the wheel, we equip existing robots to perform better, safer, and more effectively in complex human environments.
 
 **Português**  
-Fortalecemos setores críticos com hardware projetado para proteger a privacidade, oferecendo computação local robusta para obter insights em tempo real. Ao priorizar o processamento na borda (edge), reduzimos a dependência de sistemas remotos e mantemos dados sensíveis sob controle local.
+Potencializamos plataformas robóticas existentes, com rodas ou pernas, integrando cargas úteis especializadas, inteligência artificial avançada e nosso versátil controlador baseado em ROS2, o R1.
 
-Ao adotar software e modelos de código aberto,  organizações podem integrar nossas soluções ou desenvolver as próprias, garantindo que a inteligência artificial permaneça segura e versátil.
+Transformamos robôs já existentes em ferramentas práticas e inteligentes, projetadas para o uso cotidiano. Atuamos em desafios reais de setores essenciais como logística, educação, saúde e operações de alto risco.
+
+Combinando cargas modulares, software personalizado de IA e a ampla compatibilidade do controlador R1 com diversos sistemas robóticos, possibilitamos entregas mais inteligentes, experiências interativas de aprendizado, cuidados mais eficientes aos pacientes e execução segura de operações críticas. Não reinventamos a roda; equipamos robôs existentes para serem mais eficazes, seguros e preparados para ambientes humanos complexos.
 
 ---
 
