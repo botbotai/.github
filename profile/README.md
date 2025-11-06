@@ -5,28 +5,25 @@
 
 ---
 
-**English**  
-BotBot enhances existing legged and wheeled robotic platforms by integrating specialized payloads, advanced AI, and our versatile ROS2-based controller, R1.
+**English**
+BotBot upgrades legged and wheeled robots by integrating specialized payloads, advanced AI, and our versatile ROS2-based controller, BotBrain.
+We turn existing platforms into practical, intelligent tools for everyday use across logistics, education, healthcare, and hazardous work.
+By combining modular payloads, custom AI software, and BotBrain’s broad compatibility with diverse robotic systems, we enable smarter deliveries, engaging learning, better patient care, and safer high-risk operations. We don’t reinvent the wheel. We equip existing robots to perform better, safer, and more effectively in complex human environments.
 
-Our approach transforms existing robots into practical, intelligent tools designed for everyday use. We tackle real-world challenges across key sectors including logistics, education, healthcare, and hazardous tasks.
-
-By combining modular payloads, custom AI software, and R1's seamless compatibility with diverse robotic systems, we enable smarter deliveries, engaging interactive learning, improved patient care, and safer execution of high-risk operations. At BotBot, we don't reinvent the wheel, we equip existing robots to perform better, safer, and more effectively in complex human environments.
-
-**Português**  
-Potencializamos plataformas robóticas existentes, com rodas ou pernas, integrando cargas úteis especializadas, inteligência artificial avançada e nosso versátil controlador baseado em ROS2, o R1.
-
-Transformamos robôs já existentes em ferramentas práticas e inteligentes, projetadas para o uso cotidiano. Atuamos em desafios reais de setores essenciais como logística, educação, saúde e operações de alto risco.
-
-Combinando cargas modulares, software personalizado de IA e a ampla compatibilidade do controlador R1 com diversos sistemas robóticos, possibilitamos entregas mais inteligentes, experiências interativas de aprendizado, cuidados mais eficientes aos pacientes e execução segura de operações críticas. Não reinventamos a roda; equipamos robôs existentes para serem mais eficazes, seguros e preparados para ambientes humanos complexos.
+**Português**
+A BotBot potencializa robôs com rodas ou pernas integrando cargas úteis especializadas, IA avançada e nosso controlador versátil baseado em ROS2, o BotBrain.
+Transformamos plataformas existentes em ferramentas práticas e inteligentes para o uso cotidiano em logística, educação, saúde e operações de alto risco.
+Ao combinar cargas modulares, software de IA sob medida e a ampla compatibilidade do BotBrain com diversos sistemas robóticos, viabilizamos entregas mais inteligentes, aprendizado mais envolvente, melhor cuidado aos pacientes e maior segurança em operações críticas. Não reinventamos a roda. Equipamos robôs existentes para atuarem melhor, com mais segurança e eficiência em ambientes humanos complexos.
 
 ---
 
 **Connect With Us**
 
 [![Website](https://img.shields.io/badge/-Website-000?logo=vercel&logoColor=white)](https://botbot.bot)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/botbotrobotics)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@botbotrobotics)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black)](https://huggingface.co/botbot-ai)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/botbot-ai)
-[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/botbot_ai)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@botbotrobotics)
 
 ---
 
