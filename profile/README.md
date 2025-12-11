@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  One brain for for any bot.
+  One brain, any bot.
 </p>
 
 <p align="center">
